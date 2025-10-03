@@ -1,2 +1,2 @@
 # Gnumber
-Creacion de app Gnumber, un pequeño juego sobre adivinar el numero aleatorio proporcionado, utilizando tecnologias como css y angular, creado de ultimo momento en una sola noche 
+Desarrollo de una API diseñada para un juego donde el usuario adivina un número generado por el sistema con un número limitado de intentos. Tecnologías: Firebase, HTML y JavaScript, CSS, Ionic.
